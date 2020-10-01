@@ -7,4 +7,4 @@ git commit -m "first commit"
 git branch -M master
 git remote add origin https://github.com/hylinjenna/cs105hw3.git
 git push -u origin master
-Jenna Hylin, Sam Hemmelgarn sph227, and Sarah Nolt-Caraway san264
+Jenna Hylin jch534, Sam Hemmelgarn sph227, and Sarah Nolt-Caraway san264
