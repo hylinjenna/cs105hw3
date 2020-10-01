@@ -10,4 +10,12 @@ But he snored — how he snored!
 
 All the other beasts roared,
 
-So his wife tied a knot in his trunk
+So his wife tied a knot in his trunk.
+
+The elephant snored no longer,
+
+And before he could find out,
+
+the wife did absconder.
+
+
